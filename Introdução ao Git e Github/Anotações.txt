@@ -1,1 +1,13 @@
-O Desafio de projeto sobre Git/github, faz uma revisão geral sobre os comandos básicos.
+# NOTAS SOBRE O DESAFIO  DE PROJETO :nerd_face:
+
+
+
+- O Desafio de projeto sobre Git/Github, faz uma revisão geral sobre os comandos básicos abordados na aula anterior.
+- Propõe a criação de nova pasta e clonagem de repositório criado no Github para o GIT.
+- Utilizando as funções do GIT, podemos entender e conferir o ciclo de vida dos arquivos manipulados por meio do GIT
+- feitas as alterações por meio de nosso diretorio local, seguimos os passos para "commitar" e "puxar" a última versão de nosso projeto para o Github. São eles:
+  1. git status (verificar o status do nosso diretorio local)
+  2. git add
+  3. git commit
+  4. git push origin
+
